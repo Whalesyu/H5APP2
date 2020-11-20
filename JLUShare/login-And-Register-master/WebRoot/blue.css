@@ -1,0 +1,66 @@
+@charset "utf-8";
+body{
+  margin: 50px;
+  padding: 0px;
+  background-size: cover;
+background-image: url("个人2.jpg");
+}
+#header{
+  padding: 10px;
+  color: black;
+  font-family: arial;
+  text-align: center;
+  font-weight: bold;
+}
+h3{
+  font-size:20px;
+  width:800px;
+  margin: 0 auto;
+}
+#content{
+  width: 90%;
+  margin: 0 auto;
+  font-size: 14px;
+  padding: 10px;
+  line-height: 200%;
+  text-indent:2em;
+  background: rgba(70,52,187,0.3);
+}
+#nav{
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px 0px;
+  background-color: skyblue;
+}
+#footer{
+  text-align: center;
+  position: relative;
+  height: 30px;
+  bottom: 20px;
+  margin-top: 30px;
+  background-color: gray;
+  text-align: center;
+}
+input{
+  font-size: 12px;
+  border-radius: 5px;
+  background-color: skyblue;
+}
+input.blue{
+  background-color: whitesmoke;
+}
+input.green{
+  background-color: whitesmoke;
+}
+input#blue{
+  background-color: white;
+}
+
+@media (max-width: 1174px){
+}
+
+@media (max-width: 1174px){
+}
+
+@media (max-width: 1100px){
+}
